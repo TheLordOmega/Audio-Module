@@ -1,0 +1,172 @@
+Info: Processing symbol 'C1:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'J2:Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'J3:Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5'.
+Info: Processing symbol 'J1:Hackxpansion:Male_Module'.
+Info: Processing symbol 'LS1:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'RV1:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'U1:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Updated C1 fields.
+Updated C1 sheetname to '/'.
+Updated C1 sheetfile to 'module 1.kicad_sch'.
+Updated C1 footprint filters to 'C_*'.
+Add net Net-(J1-GPIO0).
+Connected C1 pin 1 to Net-(J1-GPIO0).
+Add net GND.
+Connected C1 pin 2 to GND.
+Updated C1 unit metadata.
+Added J1 (footprint 'Hackxpansion:Male_Module').
+Changed Untitled reference designator to J1.
+Changed J1 value from Male_Module to ~.
+Updated J1 symbol association from  to /40169255-0ce8-4bf8-945f-e2ec367ef754.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'module 1.kicad_sch'.
+Add net Net-(J1-MD1).
+Connected J1 pin 4 to Net-(J1-MD1).
+Connected J1 pin 1 to GND.
+Add net unconnected-(J1-GPIO1-Pad6).
+Connected J1 pin 6 to unconnected-(J1-GPIO1-Pad6).
+Connected J1 pin 5 to Net-(J1-GPIO0).
+Add net unconnected-(J1-GPIO4-Pad9).
+Connected J1 pin 9 to unconnected-(J1-GPIO4-Pad9).
+Add net +3.3V.
+Connected J1 pin 2 to +3.3V.
+Add net Net-(J1-GPIO9).
+Connected J1 pin 14 to Net-(J1-GPIO9).
+Add net Net-(J1-GPIO8).
+Connected J1 pin 13 to Net-(J1-GPIO8).
+Add net unconnected-(J1-GPIO3-Pad8).
+Connected J1 pin 8 to unconnected-(J1-GPIO3-Pad8).
+Add net unconnected-(J1-GPIO5-Pad10).
+Connected J1 pin 10 to unconnected-(J1-GPIO5-Pad10).
+Add net Net-(J1-GPIO6).
+Connected J1 pin 11 to Net-(J1-GPIO6).
+Add net Net-(J1-GPIO7).
+Connected J1 pin 12 to Net-(J1-GPIO7).
+Add net unconnected-(J1-GPI02-Pad7).
+Connected J1 pin 7 to unconnected-(J1-GPI02-Pad7).
+Add net Net-(J1-MD0).
+Connected J1 pin 3 to Net-(J1-MD0).
+Updated J1 unit metadata.
+Added J2 (footprint 'Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal').
+Changed REF** reference designator to J2.
+Changed J2 value from Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal to AudioJack3.
+Updated J2 symbol association from  to /7528457d-56b6-43a7-bbf3-06845786d785.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'module 1.kicad_sch'.
+Updated J2 footprint filters to 'Jack*'.
+Connected J2 pin S to GND.
+Add net Net-(U1-IN+).
+Connected J2 pin R to Net-(U1-IN+).
+Connected J2 pin T to Net-(U1-IN+).
+Updated J2 unit metadata.
+Added J3 (footprint 'Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5').
+Changed REF** reference designator to J3.
+Changed J3 value from microSD_HC_Hirose_DM3AT-SF-PEJM5 to Micro_SD_Card.
+Updated J3 symbol association from  to /42529738-0794-4f45-bf59-0a78b6dc458a.
+Updated J3 fields.
+Updated J3 sheetname to '/'.
+Updated J3 sheetfile to 'module 1.kicad_sch'.
+Updated J3 footprint filters to 'microSD*'.
+Connected J3 pin SH to GND.
+Connected J3 pin 7 to Net-(J1-GPIO6).
+Connected J3 pin SH to GND.
+Connected J3 pin 5 to Net-(J1-GPIO9).
+Connected J3 pin 3 to Net-(J1-GPIO8).
+Connected J3 pin 2 to Net-(J1-GPIO7).
+Add net Net-(J3-DAT1).
+Connected J3 pin 8 to Net-(J3-DAT1).
+Connected J3 pin 1 to Net-(J3-DAT1).
+Connected J3 pin SH to GND.
+Connected J3 pin SH to GND.
+Connected J3 pin 4 to +3.3V.
+Connected J3 pin 6 to GND.
+Updated J3 unit metadata.
+Added LS1 (footprint 'Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical').
+Changed REF** reference designator to LS1.
+Changed LS1 value from JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical to Speaker.
+Updated LS1 symbol association from  to /56e7210a-9669-47c4-a4c0-8c3d7730cc37.
+Updated LS1 fields.
+Updated LS1 sheetname to '/'.
+Updated LS1 sheetfile to 'module 1.kicad_sch'.
+Add net Net-(U1-OUT+).
+Connected LS1 pin 1 to Net-(U1-OUT+).
+Add net Net-(U1-OUT-).
+Connected LS1 pin 2 to Net-(U1-OUT-).
+Updated LS1 unit metadata.
+Added R1 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R1.
+Changed R1 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R1 symbol association from  to /739a4ac8-65f8-4f5c-b2bd-43f93a49ec6f.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'module 1.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to +3.3V.
+Connected R1 pin 2 to Net-(J1-MD1).
+Updated R1 unit metadata.
+Added C1 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm').
+Added R2 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R2.
+Changed R2 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R2 symbol association from  to /01037f02-6fad-4226-9b21-9db4a98c3094.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'module 1.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 1 to +3.3V.
+Connected R2 pin 2 to Net-(J1-MD0).
+Updated R2 unit metadata.
+Changed REF** reference designator to C1.
+Added R3 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R3.
+Changed R3 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to R.
+Updated R3 symbol association from  to /2e5e55f4-7a57-4bd9-8d76-92350a254602.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'module 1.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Add net unconnected-(R3-Pad1).
+Connected R3 pin 1 to unconnected-(R3-Pad1).
+Connected R3 pin 2 to Net-(J3-DAT1).
+Updated R3 unit metadata.
+Changed C1 value from C_Disc_D5.0mm_W2.5mm_P5.00mm to C.
+Added RV1 (footprint 'Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical').
+Changed REF** reference designator to RV1.
+Changed RV1 value from JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical to R_Potentiometer.
+Updated RV1 symbol association from  to /c12f59ed-06a6-4041-9f66-bcfe62b3b49a.
+Updated RV1 fields.
+Updated RV1 sheetname to '/'.
+Updated RV1 sheetfile to 'module 1.kicad_sch'.
+Updated RV1 footprint filters to 'Potentiometer*'.
+Connected RV1 pin 2 to Net-(U1-IN+).
+Connected RV1 pin 1 to Net-(J1-GPIO0).
+Updated RV1 unit metadata.
+Updated C1 symbol association from  to /02617515-8812-4ce4-9090-888aa829eae8.
+Added U1 (footprint 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm').
+Changed REF** reference designator to U1.
+Changed U1 value from SOIC-8_3.9x4.9mm_P1.27mm to PAM8302AAD.
+Updated U1 symbol association from  to /0dd7c5d8-9169-4531-960e-60561c79f09e.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'module 1.kicad_sch'.
+Updated U1 footprint filters to 'MSOP*3x3mm*P0.65mm* SOIC*3.9x4.9mm*P1.27mm*'.
+Connected U1 pin 6 to +3.3V.
+Connected U1 pin 8 to Net-(U1-OUT-).
+Connected U1 pin 4 to GND.
+Connected U1 pin 7 to GND.
+Add net unconnected-(U1-NC-Pad2).
+Connected U1 pin 2 to unconnected-(U1-NC-Pad2).
+Connected U1 pin 3 to Net-(U1-IN+).
+Connected U1 pin 5 to Net-(U1-OUT+).
+Connected U1 pin 1 to +3.3V.
+Updated U1 unit metadata.
+Warning: No net found for component J3 pad 10 (no pin 10 in symbol).
+Warning: No net found for component J3 pad 9 (no pin 9 in symbol).
+Error: RV1 pad 3 not found in Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical.
+
+
+Info: Total warnings: 2, errors: 1.
