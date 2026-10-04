@@ -6,16 +6,15 @@ Key features:
 - 3.5mm jack
 - no storage
 
+
 ## PCB
 
-![[Pasted image 20261001231218.png]]
-
+![PCB](./images/PCB.png)
 ## Schematic
-![[Pasted image 20261001231232.png]]
+![Schematic](./images/Schematic.png)
 
 ## 3D Case
-
-![[Pasted image 20261001231628.png]]
+![Case](./images/3Dmodel.png)
 ## Bill of Materials (excluding console)
 
 Also found in [bom.csv](./bom.csv).
